@@ -14,15 +14,15 @@ module.exports = {
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-    OWNER_NAME: process.env.OWNER_NAME || "HansTech",
-    DEV: process.env.DEV || "255614195217",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254723278526",
+    OWNER_NAME: process.env.OWNER_NAME || "Ian Tech",
+    DEV: process.env.DEV || "254723278526",
 
     // ==============================
     //         ANTI CALL
     // ==============================
     ANTI_CALL: process.env.ANTI_CALL || "false", // "true" = Warn only, no block
-    ANTI_CALL_BLOCK: process.env.ANTI_CALL_BLOCK || "true", // "true" = 5 warnings then block
+    ANTI_CALL_BLOCK: process.env.ANTI_CALL_BLOCK || "false", // "true" = 5 warnings then block
     AUTO_BLOCK: process.envAUTO_BLOCK || "false",
     // ==============================
     //            MODE
@@ -71,19 +71,19 @@ module.exports = {
     // ==============================
     //      BOT APPEARANCE
     // ==============================
-    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/di5kdx.jpg",
+    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.m",
     PREFIX: process.env.PREFIX || ".",
     BOT_NAME: process.env.BOT_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
     STICKER_NAME: process.env.STICKER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/di5kdx.jpg",
-    LIVE_MSG: process.env.LIVE_MSG || "> 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃⚡ IS ALIVE",
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTech*",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/fkelmv.jpg",
+    LIVE_MSG: process.env.LIVE_MSG || "> 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃 IAN⚡ IS ALIVE",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ IanTech*",
 
     // ==============================
     //         REACTIONS
     // ==============================
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
-    CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
+    CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💥,💫,🥰,🌟,❤️‍🔥,💙,💜,🤎,🖤,🤍",
 
     // ==============================
     //          PRIVACY
